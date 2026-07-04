@@ -6,4 +6,7 @@ public class Attendance {
         this.date = date;
         this.status = status;
     }
+    public String getDate(){
+        return date;
+    }
 }
